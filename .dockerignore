@@ -1,0 +1,20 @@
+# Folder virtual environment
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+
+# File yang tidak diperlukan
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+*.sqlite3
+*.log
+
+# Direktori build
+build/
+dist/
+*.egg-info/
